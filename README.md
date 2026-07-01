@@ -24,7 +24,7 @@ Estudante de Desenvolvimento de Sistemas, com formação técnica na área e con
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Aplicativo Saúde](#Aplicativo-Saude-) | Centraliza monitoramento de saúde pessoal (glicemia, pressão, IMC, remédios, vacinas) resolvendo o problema de dados de saúde espalhados. | JS e PHP |
+| [Aplicativo Saúde](https://github.com/biaa15042008/Aplicativo-Saude-) | Centraliza monitoramento de saúde pessoal (glicemia, pressão, IMC, remédios, vacinas) resolvendo o problema de dados de saúde espalhados. | JS e PHP |
 | [Nome do Projeto 2](#) | Breve descrição do que o projeto faz e o problema que resolve | Python |
 | [Nome do Projeto 3](#) | Breve descrição do que o projeto faz e o problema que resolve | React Native |
 ---
