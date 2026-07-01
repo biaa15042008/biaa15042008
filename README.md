@@ -24,10 +24,9 @@ Estudante de Desenvolvimento de Sistemas, com formação técnica na área e con
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Aplicativo Saúde](#) | O app centraliza o monitoramento de saúde pessoal (glicemia, pressão, IMC, hidratação, remédios, vacinas e emergências) em um só lugar, resolvendo o problema de informações de saúde espalhadas e desorganizadas, que causam esquecimentos e dificultam o cuidado diário. | js e php |
+| [Aplicativo Saúde](#) | Centraliza monitoramento de saúde pessoal (glicemia, pressão, IMC, remédios, vacinas) resolvendo o problema de dados de saúde espalhados. | JS e PHP |
 | [Nome do Projeto 2](#) | Breve descrição do que o projeto faz e o problema que resolve | Python |
 | [Nome do Projeto 3](#) | Breve descrição do que o projeto faz e o problema que resolve | React Native |
-
 ---
 
 ### 🚀 Linguagens e Tecnologias
