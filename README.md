@@ -14,7 +14,7 @@
 
 ### Sobre mim
 
-Estudante de Desenvolvimento de Sistemas, com formação técnica na área e conhecimento prático em desenvolvimento web e mobile, do front-end ao back-end. Tenho interesse em criar e estrurar Inteligência Artificial e busco minha primeira oportunidade profissional para aplicar e aprofundar os conhecimentos técnicos que venho desenvolvendo. Em constante aprendizado e aberta a desafios na área de tecnologia.
+Estudante de Desenvolvimento de Sistemas, com formação técnica na área e conhecimento prático em desenvolvimento web e mobile, do front-end ao back-end.   Busco minha primeira oportunidade profissional para aplicar e aprofundar os conhecimentos técnicos que venho desenvolvendo. Em constante aprendizado e aberta a desafios na área de tecnologia.
 
 ---
 
