@@ -1,7 +1,7 @@
 <h1 align="center">Beatriz Mauricio Figueiro</h1>
 
 <p align="center">
-  Estudante de Desenvolvimento de Sistemas | Full Stack
+  Técnica em Desenvolvimento de Sistemas | Full Stack
 </p>
 
 <p align="center">
