@@ -27,7 +27,7 @@ Estudante de Desenvolvimento de Sistemas, com formação técnica na área e con
 | [Aplicativo VivaSegura](https://github.com/moniqueagata/app-viva-segura) | Oferece mais Segurança e proteção às mulheres durante seus deslocamentos diários | PHP  e JS|
 | [Aplicativo Saúde](https://github.com/biaa15042008/Aplicativo-Saude-) | Centraliza monitoramento de saúde pessoal (glicemia, pressão, IMC, remédios, vacinas) resolvendo o problema de dados de saúde espalhados. | JS e PHP |
 
-| [Nome do Projeto 3](#) | Breve descrição do que o projeto faz e o problema que resolve | React Native |
+
 ---
 
 ### 🚀 Linguagens e Tecnologias
